@@ -39,7 +39,7 @@ $candidatos = [
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Eleição Nacional 2026</title>
-<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>

@@ -24,7 +24,7 @@ $cargos = [
 
 <title>Comprovante de Votação</title>
 
-<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="style.css">
 
 </head>
 
