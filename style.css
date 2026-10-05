@@ -12,10 +12,10 @@ min-height:100vh
 }
 
 header{
-background:#163a5f;
+background:#3f7c44;
 color:#fff;
 padding:22px 7%;
-box-shadow:0 2px 8px #0002
+box-shadow:0 2px 8px #18301a
 }
 
 header h1{
@@ -41,7 +41,7 @@ margin-bottom:22px
 }
 
 .card h2{
-color:#163a5f;
+color:#0d3a17;
 margin-bottom:12px
 }
 
@@ -64,7 +64,7 @@ background:#fafafa
 }
 
 .candidato h3{
-color:#163a5f;
+color:#0d3a17;
 margin-bottom:7px
 }
 
@@ -94,7 +94,7 @@ box-shadow:0 8px 25px #0003
 
 .tela{
 background:#f2f0dc;
-border:8px solid #555;
+border:8px solid #7eb471;
 min-height:230px;
 padding:25px;
 display:flex;
@@ -204,7 +204,7 @@ cursor:not-allowed
 display:inline-block;
 margin-top:18px;
 padding:12px 18px;
-background:#163a5f;
+background:#165f3d;
 color:#fff;
 text-decoration:none;
 border-radius:7px
@@ -217,7 +217,7 @@ margin:45px auto
 
 .recebido h1{
 text-align:center;
-color:#163a5f;
+color:#0d3a17;
 margin-bottom:25px
 }
 
